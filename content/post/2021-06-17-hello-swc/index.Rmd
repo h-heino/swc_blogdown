@@ -1,0 +1,17 @@
+---
+title: Hello SWC
+author: Hayley
+date: '2021-06-17'
+slug: hello-swc
+categories:
+  - R
+tags:
+  - plot
+---
+
+Put some content here
+
+```{r}
+plot(cars)
+```
+
